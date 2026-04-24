@@ -1,9 +1,0 @@
-{
-  "name": "女巫的毒药",
-  "short_name": "毒药游戏",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#1a2a1f",
-  "theme_color": "#7f9a4d",
-  "orientation": "landscape"
-}
